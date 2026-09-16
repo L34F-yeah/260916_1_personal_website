@@ -17,6 +17,10 @@
 
 *(註：若上述連結尚未生效，請至 GitHub 倉庫 Setting -> Pages 啟用 GitHub Pages 服務)*
 
+### 📷 頁面預覽快照 (Preview Screenshot)
+
+![Personal Website Preview](preview.png)
+
 ---
 
 ## ✨ 專案特色 (Features)
